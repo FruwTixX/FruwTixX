@@ -159,9 +159,8 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=FruwTixx&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-   </p>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=FruwTixx&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
