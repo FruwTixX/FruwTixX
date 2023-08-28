@@ -159,7 +159,7 @@
 
   <h3>🔥 Streak Stats</h3>
 [![GitHub Streak](https://streak-stats.demolab.com?user=FruwTixx&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
